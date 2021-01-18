@@ -1,0 +1,6 @@
+.DS_Store
+*.go~
+out/
+docs/
+roms/
+*.ods
